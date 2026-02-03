@@ -1,5 +1,5 @@
 %[text] ## 書店データ分析：Step 1 - データ理解と基礎分析
-clear; clc; close all;
+% clear; clc; close all;
 %[text] ### 1.データのインポートは「rawData.mat」を実行
 %%
 %[text] ### 2. 基本統計の確認
