@@ -121,3 +121,9 @@ for i = 1:nCats-1
         end
     end
 end
+
+%[appendix]{"version":"1.0"}
+%---
+%[metadata:view]
+%   data: {"layout":"inline"}
+%---
